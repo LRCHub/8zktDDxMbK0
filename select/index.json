@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "シキナ",
+  "base_artist": "GLAY",
+  "createdAt": "2026-01-14T01:17:00.201640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シキナ",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/01_シキナ_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シキナ (Jet the phantom mix)",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/02_シキナ_(Jet_the_phantom_mix)_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シキナ (ROCK AROUND THE WORLD Live ver.)",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/03_シキナ_(ROCK_AROUND_THE_WORLD_Live_ver.)_GLAY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シキナ (Demo)",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/04_シキナ_(Demo)_GLAY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シキナ (ROCK AROUND THE WORLD Live ver.)",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_01_シキナ_(ROCK_AROUND_THE_WORLD_Live_ver.)_GLAY.txt"
+    }
+  ]
+}
